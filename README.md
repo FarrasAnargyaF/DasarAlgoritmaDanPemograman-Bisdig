@@ -4,6 +4,7 @@ Cara Menjalankan
 1. Jalankan program.
 2. Masukkan total belanja.
 3. Program akan menampilkan total bayar dengan atau tanpa diskon sesuai ketentuan.
+
 **RATA RATA SISWA**
 Penjelasan Tipe Data dan Operator:
 Dalam perhitungan rata-rata dan pengecekan kelulusan, tipe data yang digunakan adalah:
@@ -13,6 +14,7 @@ Boolean (bool) dan operator logika digunakan untuk menentukan apakah siswa lulus
 Operator yang digunakan:
 Operator aritmatika: +, / untuk menjumlahkan dan membagi nilai.
 Operator pembanding: >= untuk mengecek apakah rata-rata nilai memenuhi syarat kelulusan (≥ 75).
+
 **FAKTORIAL**
 Penjelasan Fungsi Rekursif untuk Menghitung Faktorial:
 Manfaat Penggunaan Fungsi
@@ -24,6 +26,7 @@ Cara Kerja Rekursi dalam Menghitung Faktorial
 Rekursi bekerja dengan memanggil fungsi itu sendiri hingga mencapai kondisi dasar (base case). Pada kasus faktorial, definisi matematisnya adalah:
 Faktorial dari 0 adalah 1 (0! = 1)
 Faktorial dari n (n > 0) adalah n × (n-1)!
+
 **NILAI TERTINGGI DARI 5 SISWA**
 Program Cari Nilai Tertinggi
 Program ini digunakan untuk menerima input nilai dari 5 siswa, lalu mencari dan menampilkan nilai tertinggi serta siswa yang mendapatkannya.
@@ -35,6 +38,7 @@ Nilai siswa: 80, 90, 85, 70, 95
 Output:
 Nilai tertinggi adalah: 95  
 Didapatkan oleh siswa ke-5
+
 **MENGHITUNG TOTAL PEMBELIAN 3 BARANG**
 Program sederhana untuk menghitung total harga 3 barang
 Input harga dari pengguna
